@@ -98,7 +98,7 @@ The application will open in a web browser.
 https://github.com/Akanksha1668/student-performance-prediction
 
 **Live Demo:**
-Add your Streamlit deployment link here after deployment.
+https://student-performance-prediction-4e8vzcuvzghymtbrsyuqeb.streamlit.app/
 
 ## 👩‍💻 Project Type
 
